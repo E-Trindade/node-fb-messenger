@@ -63,7 +63,7 @@ class FBMessenger {
         'type': 'template',
         'payload': {
           'template_type': 'list',
-          'top_element_type': top_element_type,
+          'top_element_style': top_element_type,
           'elements': elements,
           'buttons': buttons
         }
